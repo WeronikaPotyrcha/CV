@@ -1,0 +1,96 @@
+body {
+  background: #fdeded;
+  font-family: "Montserrat", sans-serif;
+}
+
+hr {
+  color: #a55f5f;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: row-reverse;
+  width: 1200px;
+  justify-content: center;
+  margin: 0 auto;
+  background: #ffffff;
+  box-shadow: 6px 6px 20px #d3d2d2;
+}
+
+main {
+  width: 70%;
+  padding: 10px 10px 100px 10px;
+}
+
+.main-block {
+  margin: 10px 10px 10px 10px;
+  padding: 10px 10px 10px 10px;
+}
+
+.description {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+}
+.place {
+  color: #a55f5f;
+}
+
+.text {
+  color: #6b6767;
+}
+
+.main-list {
+  padding-left: 0;
+  list-style-position: inside;
+  color: #6b6767;
+}
+
+aside {
+  width: 370px;
+  background: #a55f5f;
+  padding: 20px;
+}
+
+.cv-photo {
+  width: 330px;
+  margin: 10px 10px 10px 10px;
+  padding: 10px 10px 10px 10px;
+}
+
+.contact-links {
+  color: #ffffff;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.bold {
+  color: #ffffff;
+  font-weight: 700;
+}
+
+.skills {
+  color: #ffffff;
+}
+
+.secondary-list {
+  color: #a19797;
+  font-size: 16px;
+  line-height: 24px;
+  margin-left: 0;
+  padding-left: 0;
+  list-style-position: inside;
+}
+
+.secondary-list-item {
+  color: #ffffff;
+}
+
+.left {
+  color: #ffffff;
+}
+
+.left-block {
+  margin-top: 40px;
+  margin-left: 20px;
+}
